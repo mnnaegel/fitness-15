@@ -1,5 +1,5 @@
 # Fitness-15
-
+---
 A React Native fitness app that helps users combat Freshman 15. Matches users with each other based on their interests and a searching algorithm and finds convenient gyms with Google's Places API.
 ---
 ### Preview
